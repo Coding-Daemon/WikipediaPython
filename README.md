@@ -1,4 +1,4 @@
-# WikipediaPython
+# Wikipedia Module Python
 Wikipedia Module in Python
 
 command to install wikipedia module - "pip install wikipedia"
